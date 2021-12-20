@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Pop3UI\Pop3UI\bin\Debug\Pop3UI.exe.config
+C:\Users\user\Desktop\Pop3UI\Pop3UI\bin\Debug\Pop3UI.exe
+C:\Users\user\Desktop\Pop3UI\Pop3UI\bin\Debug\Pop3UI.pdb
+C:\Users\user\Desktop\Pop3UI\Pop3UI\obj\Debug\Pop3UI.Form1.resources
+C:\Users\user\Desktop\Pop3UI\Pop3UI\obj\Debug\Pop3UI.Properties.Resources.resources
+C:\Users\user\Desktop\Pop3UI\Pop3UI\obj\Debug\Pop3UI.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Pop3UI\Pop3UI\obj\Debug\Pop3UI.exe
+C:\Users\user\Desktop\Pop3UI\Pop3UI\obj\Debug\Pop3UI.pdb
+C:\Users\user\Desktop\Pop3UI\Pop3UI\bin\Debug\OpenPop.dll
